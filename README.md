@@ -1,7 +1,5 @@
 # Myntra-Clone-using-React-
 
-# Myntra Clone using React
-
 This project is a functional clone of the **Myntra** e-commerce platform built using **React** for the frontend and a real backend for data management. It aims to mimic the core features of an online shopping platform, including product listing, filtering, and cart management.
 
 ## Features
